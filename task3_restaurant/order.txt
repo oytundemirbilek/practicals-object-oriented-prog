@@ -1,0 +1,21 @@
+Table1
+3
+2 massala chicken
+1 coke
+1 ceaser salad
+Table2
+2
+1 mughai chicken
+1 steamed salmon
+Table3
+3
+1 baked fish
+1 ceaser salad
+1 coke
+Table4
+2
+1 ceaser salad
+1 steamed salmon
+Table5
+1
+4 tea
